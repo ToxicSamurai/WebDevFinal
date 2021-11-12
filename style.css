@@ -1,0 +1,15 @@
+:root {
+    --background-color-var: #F1CDC6;
+    background-color: var(--background-color-var);
+
+}
+
+h1 {
+    float: left;
+    font-family: 'Titillium Web', sans-serif;
+    font-size: 64px;
+    border: var(--background-color-var), 10, 10;
+}
+p {
+    font-family: 'Titillium Web', sans-serif;
+}
