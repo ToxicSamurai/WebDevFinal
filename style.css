@@ -1,7 +1,6 @@
 :root {
     --background-color-var: #F1CDC6;
     background-color: var(--background-color-var);
-
 }
 
 h1 {
@@ -14,7 +13,7 @@ h1 {
 h3 {
     text-align: left;
     font-family: 'Titillium Web', sans-serif;
-    font-size: 48px;
+    font-size: 32px;
 }
 
 .navmenu {
