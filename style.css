@@ -11,11 +11,18 @@ h1 {
     border: var(--background-color-var), 10, 10;
 }
 
+h3 {
+    text-align: left;
+    font-family: 'Titillium Web', sans-serif;
+    font-size: 48px;
+}
+
 .navmenu {
     float: center;
     font-family: 'Titillium Web', sans-serif;
 }
 
 p {
+    float: left;
     font-family: 'Titillium Web', sans-serif;
 }
