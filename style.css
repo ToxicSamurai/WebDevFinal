@@ -4,16 +4,16 @@
 
 }
 
-.navmenu {
-    float: center;
-    font-family: 'Titillium Web', sans-serif;
-}
-
 h1 {
     float: left;
     font-family: 'Titillium Web', sans-serif;
     font-size: 64px;
     border: var(--background-color-var), 10, 10;
+}
+
+.navmenu {
+    float: center;
+    font-family: 'Titillium Web', sans-serif;
 }
 
 p {
