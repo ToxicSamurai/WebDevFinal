@@ -14,10 +14,11 @@ h3 {
     text-align: left;
     font-family: 'Titillium Web', sans-serif;
     font-size: 32px;
+    margin-bottom: 0px;
 }
 
 .navmenu {
-    float: center;
+    text-align: center;
     font-family: 'Titillium Web', sans-serif;
 }
 
@@ -25,3 +26,11 @@ p {
     float: left;
     font-family: 'Titillium Web', sans-serif;
 }
+
+img {
+    float: right;
+    padding-right: 30px;
+    padding-bottom: 30px;
+}
+
+/*9 properties used so far*/
