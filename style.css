@@ -17,16 +17,16 @@ h3 {
     margin-bottom: 0px;
 }
 
-.navmenu {
+.homenavmenu {
     position: relative;
-    left: 375px;
+    left: 325px;
     bottom: 350px;
     text-align: center;
     margin-left: 20px;
     font-family: 'Titillium Web', sans-serif;
 }
 
-.maintext {
+.homepagetext {
     float: left;
     font-family: 'Titillium Web', sans-serif;
 }
