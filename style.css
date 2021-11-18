@@ -19,7 +19,16 @@ h3 {
 
 .homenavmenu {
     position: relative;
-    left: 325px;
+    left: 250px;
+    bottom: 350px;
+    text-align: center;
+    margin-left: 20px;
+    font-family: 'Titillium Web', sans-serif;
+}
+
+.secondnavmenu {
+    /*This one won't tkae position: relative; for some reason*/
+    left: 250px;
     bottom: 350px;
     text-align: center;
     margin-left: 20px;
@@ -33,8 +42,22 @@ h3 {
 
 img {
     float: right;
+}
+
+.skigif {
     padding-right: 30px;
     padding-bottom: 30px;
+}
+
+.ancientskier{
+    padding-right: 30px;
+}
+
+.ancientchart {
+    padding-right: 30px;
+    padding-bottom: 30px;
+    width: 50%;
+    height: 50%;
 }
 
 /*10+ properties used*/
