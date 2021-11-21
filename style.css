@@ -31,6 +31,12 @@ h3 {
     margin-bottom: 0px;
 }
 
+p {
+    text-align: left;
+    font-family: 'Titillium Web', sans-serif;
+    font-size: 16px;
+}
+
 .homenavmenu {
     position: relative;
     left: 200px;
@@ -41,7 +47,7 @@ h3 {
 }
 
 .secondnavmenu {
-    /*This one won't tkae position: relative; for some reason*/
+    /*This one won't take position: relative; for some reason*/
     left: 225px;
     bottom: 350px;
     text-align: center;
@@ -75,7 +81,7 @@ img {
 .ancientchart {
     padding-right: 30px;
     padding-bottom: 30px;
-    width: 50%;
+    width: 39.75%;
     height: 50%;
 }
 
