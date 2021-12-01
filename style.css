@@ -39,15 +39,6 @@ p {
     font-size: 16px;
 }
 
-.homenavmenu {
-    position: relative;
-    right: 300px;
-    bottom: 310px;
-    text-align: center;
-    margin-left: 20px;
-    font-family: 'Titillium Web', sans-serif;
-}
-
 .navmenu {
     position: relative;
     left: 225px;
