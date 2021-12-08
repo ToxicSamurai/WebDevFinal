@@ -8,8 +8,8 @@ h1 {
     font-family: 'Titillium Web', sans-serif;
     font-size: 64px;
     border: var(--background-color-var), 10, 10;
-    margin-bottom: 0px;
     line-height: 65px;
+    margin-bottom: 0px;
 }
 
 h2 {
